@@ -12,9 +12,11 @@ To provide a secure, gas-efficient, and flexible foundation for arbitrage tradin
 - Integration with flash loan providers.
 - Basic arbitrage logic placeholder between two DEXes.
 - Secure repayment of flash loan plus fees within the same transaction.
+
+- 
 - Ability for contract owner to withdraw profits.
 
-## Future Scope
+##   Future Scope
 - Integrate with real DEX protocols (Uniswap, Sushiswap).
 - Add multi-token arbitrage strategies.
 - Implement profit tracking and distribution.
@@ -22,7 +24,7 @@ To provide a secure, gas-efficient, and flexible foundation for arbitrage tradin
 - Add automated monitoring and execution tools.
 
 
-### Contract details
+###   Contract details
 
 0x02c123843c7053379309b86022149C243087ABC3![alt text](image.png)
 ##
