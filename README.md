@@ -1,6 +1,7 @@
-##   Flash Loan Arbitrage System
+##    Flash Loan Arbitrage System
 
 ##     Project Description
+
 This project implements a basic Flash Loan system allowing arbitrage opportunities between two decentralized exchanges (DEXes). It leverages flash loans to borrow tokens without upfront capital, executes arbitrage trades, and repays the loan within one transaction.
 
 ##  Project Vision
