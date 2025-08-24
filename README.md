@@ -32,6 +32,5 @@ To provide a secure, gas-efficient, and flexible foundation for arbitrage tradin
 ###   Contract details
 
 0x02c123843c7053379309b86022149C243087ABC3![alt text](image.png)
-##
 
-## project is completed 
+## project is completed .
