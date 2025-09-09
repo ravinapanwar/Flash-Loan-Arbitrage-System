@@ -2,7 +2,6 @@
 
 # Flash Loan Arbitrage System
 
-
 # Project Description
 This project implements a basic Flash Loan system allowing arbitrage opportunities between two decentralized exchanges (DEXes). It leverages flash loans to borrow tokens without upfront capital, executes arbitrage trades, and repays the loan within one transaction.
 ##  Project Vision
@@ -15,7 +14,7 @@ To provide a secure, gas-efficient, and flexible foundation for arbitrage tradin
 - 
 - Ability for contract owner to withdraw payment
 - 
-##  Future Scope
+###  Future Scope
 
 - Integrate with real DEX protocols (Uniswap, Sushiswap).
 - Add multi-token arbitrage strategies.
